@@ -6,5 +6,6 @@ package demo;
  */
 public class Heool {
 
-    public static final String s = "123";
+    public final String s = "123";
+
 }
